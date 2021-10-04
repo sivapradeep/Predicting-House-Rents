@@ -3,4 +3,4 @@ This project helps to predict the House Rents in different areas of Metropolitan
 
 This project has major portion of Preprocessing steps included.
 
-This is built based on Python Programming language in Jupyter Notebook.
+This is built based on Python Programming language in the Jupyter Notebook.
