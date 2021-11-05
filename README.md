@@ -1,5 +1,5 @@
 # Predicting-House-Rents
-This project helps to predict the House Rents in different areas of Metropolitan Cities.
+This project helps to predict House Rents in different areas of Metropolitan Cities.
 
 This project has major portion of Preprocessing steps included.
 
